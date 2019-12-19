@@ -2,6 +2,7 @@
 https://api.openweathermap.org/data/2.5/weather
 
 # description
+```
 講師-バッチ  16分前
 次の課題です。
 現在javascriptの基礎の部分と、webサイトにjsを埋め込むところをやっていると思います。
@@ -43,3 +44,4 @@ masterブランチにpushまでですか。プルリクエストは発行しま�
 
 講師-ユズノハ  3分前
 プルリクエストを発行する形式ですね！
+```
